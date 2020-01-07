@@ -1,0 +1,4 @@
+﻿  VVP_21.4.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_21.4\VVP_21.4\VVP_21.4.cpp(14,10): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_21.4\VVP_21.4\VVP_21.4.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+  VVP_21.4.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP_21.4\Debug\VVP_21.4.exe

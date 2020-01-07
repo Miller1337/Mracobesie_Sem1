@@ -1,0 +1,5 @@
+﻿  VVP_17.4.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_17.4\VVP_17.4\VVP_17.4.cpp(25,77): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_17.4\VVP_17.4\VVP_17.4.cpp(26,77): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_17.4\VVP_17.4\VVP_17.4.cpp(27,77): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  VVP_17.4.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP_17.4\Debug\VVP_17.4.exe

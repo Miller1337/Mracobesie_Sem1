@@ -1,0 +1,4 @@
+﻿  VVP_17.2.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_17.2\VVP_17.2\VVP_17.2.cpp(7,21): warning C4101: m: неиспользованная локальная переменная
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_17.2\VVP_17.2\VVP_17.2.cpp(7,18): warning C4101: p: неиспользованная локальная переменная
+  VVP_17.2.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP_17.2\Debug\VVP_17.2.exe

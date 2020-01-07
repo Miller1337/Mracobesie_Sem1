@@ -1,0 +1,4 @@
+﻿  VVP_19.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_19\VVP_19\VVP_19.cpp(6,33): warning C4101: max: неиспользованная локальная переменная
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_19\VVP_19\VVP_19.cpp(6,28): warning C4101: min: неиспользованная локальная переменная
+  VVP_19.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP_19\Debug\VVP_19.exe

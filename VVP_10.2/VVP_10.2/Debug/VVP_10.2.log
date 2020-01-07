@@ -1,0 +1,4 @@
+﻿  VVP_10.2.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_10.2\VVP_10.2\VVP_10.2.cpp(12,32): warning C4552:  "+": результат выражения не используется
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_10.2\VVP_10.2\VVP_10.2.cpp(8,9): warning C4101:  i: неиспользованная локальная переменная
+  VVP_10.2.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP_10.2\Debug\VVP_10.2.exe

@@ -1,0 +1,6 @@
+﻿  VVP_15.2.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_15.2\VVP_15.2\VVP_15.2.cpp(8,23): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_15.2\VVP_15.2\VVP_15.2.cpp(9,23): warning C4244: инициализация: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_15.2\VVP_15.2\VVP_15.2.cpp(17,22): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_15.2\VVP_15.2\VVP_15.2.cpp(17,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  VVP_15.2.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP_15.2\Debug\VVP_15.2.exe

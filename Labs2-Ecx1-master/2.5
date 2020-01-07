@@ -1,0 +1,35 @@
+#include "pch.h"
+#include <iostream>
+#include <math.h>
+using namespace std;
+
+int main()
+{
+	double x1, y1, x2, y2, x3, y3, P, p, S,a,b,c;
+
+	cout << "Enter x1:";
+	cin >> x1;
+	cout << "Enter y1:";
+	cin >> y1;
+	cout << "Enter x2:";
+	cin >> x2;
+	cout << "Enter y2:";
+	cin >> y2;
+	cout << "Enter x3:";
+	cin >> x3;
+	cout << "Enter y3:";
+	cin >> y3;
+
+	a = sqrt((pow((x2 - x1),2) + pow((y2 - y1),2)));
+	b = sqrt((pow((x3 - x2), 2) + pow((y3 - y2), 2)));
+	c = sqrt((pow((x1 - x3), 2) + pow((y1 - y3), 2)));
+	P = a + b + c;
+	p = (a + b + c) / 2;
+	S = sqrt(p*(p - a)*(p - b)*(p - c));
+	cout << "P: " << P << endl;
+	cout << "S:" << S << endl;
+
+	system("pause");
+	return 0;
+
+}

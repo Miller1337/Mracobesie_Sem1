@@ -1,0 +1,6 @@
+﻿  VVp_Laby 2.3.cpp
+C:\Users\Gleb\Desktop\Лабы\VVp_Laby 2.3\VVp_Laby 2.3\VVp_Laby 2.3.cpp(8,31): warning C4101:  sum: неиспользованная локальная переменная
+C:\Users\Gleb\Desktop\Лабы\VVp_Laby 2.3\VVp_Laby 2.3\VVp_Laby 2.3.cpp(9): error C4700:  использована неинициализированная локальная переменная "x1"
+C:\Users\Gleb\Desktop\Лабы\VVp_Laby 2.3\VVp_Laby 2.3\VVp_Laby 2.3.cpp(11): error C4700:  использована неинициализированная локальная переменная "x2"
+C:\Users\Gleb\Desktop\Лабы\VVp_Laby 2.3\VVp_Laby 2.3\VVp_Laby 2.3.cpp(13): error C4700:  использована неинициализированная локальная переменная "y1"
+C:\Users\Gleb\Desktop\Лабы\VVp_Laby 2.3\VVp_Laby 2.3\VVp_Laby 2.3.cpp(15): error C4700:  использована неинициализированная локальная переменная "y2"

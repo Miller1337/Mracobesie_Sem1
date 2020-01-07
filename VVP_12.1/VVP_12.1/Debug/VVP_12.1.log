@@ -1,0 +1,3 @@
+﻿  VVP_12.1.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_12.1\VVP_12.1\VVP_12.1.cpp(12,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  VVP_12.1.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP_12.1\Debug\VVP_12.1.exe

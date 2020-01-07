@@ -1,0 +1,4 @@
+﻿  VVP_10.5.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_10.5\VVP_10.5\VVP_10.5.cpp(15,10): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_10.5\VVP_10.5\VVP_10.5.cpp(20,10): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+  VVP_10.5.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP_10.5\Debug\VVP_10.5.exe

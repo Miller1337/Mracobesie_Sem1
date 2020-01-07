@@ -1,0 +1,9 @@
+﻿  VVP_16.5.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_16.5\VVP_16.5\VVP_16.5.cpp(24,13): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  VVP_16.5.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP_16.5\x64\Release\VVP_16.5.exe
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_16.5\VVP_16.5\VVP_16.5.cpp(23): warning C6386: Переполнение буфера при записи в "arr":  доступный для записи объем равен "N*4" байт, однако записать можно только "8" байт.
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_16.5\VVP_16.5\VVP_16.5.cpp(15): warning C6385: Чтение недопустимых данных из "arr":  доступный для чтения объем равен "N*4" байт, однако считать можно только "8" байт.

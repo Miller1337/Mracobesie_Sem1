@@ -1,0 +1,6 @@
+﻿  VVP2.5.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP2.5\VVP2.5\VVP2.5.cpp(26,14): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP2.5\VVP2.5\VVP2.5.cpp(27,11): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP2.5\VVP2.5\VVP2.5.cpp(28,11): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP2.5\VVP2.5\VVP2.5.cpp(31,11): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+  VVP2.5.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP2.5\Debug\VVP2.5.exe

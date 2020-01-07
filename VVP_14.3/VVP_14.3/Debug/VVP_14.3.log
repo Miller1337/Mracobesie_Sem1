@@ -1,0 +1,3 @@
+﻿  VVP_14.3.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_14.3\VVP_14.3\VVP_14.3.cpp(8,12): warning C4101: b: неиспользованная локальная переменная
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_14.3\VVP_14.3\VVP_14.3.cpp(17): error C4700: использована неинициализированная локальная переменная "i"

@@ -1,0 +1,11 @@
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\bin\Debug\netcoreapp3.1\Alcoritm_8.6.exe
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\bin\Debug\netcoreapp3.1\Alcoritm_8.6.deps.json
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\bin\Debug\netcoreapp3.1\Alcoritm_8.6.runtimeconfig.json
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\bin\Debug\netcoreapp3.1\Alcoritm_8.6.runtimeconfig.dev.json
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\bin\Debug\netcoreapp3.1\Alcoritm_8.6.dll
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\bin\Debug\netcoreapp3.1\Alcoritm_8.6.pdb
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\obj\Debug\netcoreapp3.1\Alcoritm_8.6.csprojAssemblyReference.cache
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\obj\Debug\netcoreapp3.1\Alcoritm_8.6.AssemblyInfoInputs.cache
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\obj\Debug\netcoreapp3.1\Alcoritm_8.6.AssemblyInfo.cs
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\obj\Debug\netcoreapp3.1\Alcoritm_8.6.dll
+C:\Users\Gleb\Desktop\Лабы\Основы\Alcoritm_8.6\Alcoritm_8.6\obj\Debug\netcoreapp3.1\Alcoritm_8.6.pdb

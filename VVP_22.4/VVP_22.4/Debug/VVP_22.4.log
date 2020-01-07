@@ -1,0 +1,9 @@
+﻿  VVP_22.4.cpp
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_22.4\VVP_22.4\VVP_22.4.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_22.4\VVP_22.4\VVP_22.4.cpp(16,9): warning C4101: a: неиспользованная локальная переменная
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_22.4\VVP_22.4\VVP_22.4.cpp(16,12): warning C4101: N: неиспользованная локальная переменная
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_22.4\VVP_22.4\VVP_22.4.cpp(16,21): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_22.4\VVP_22.4\VVP_22.4.cpp(16,18): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_22.4\VVP_22.4\VVP_22.4.cpp(16,6): warning C4101: l: неиспользованная локальная переменная
+C:\Users\Gleb\Desktop\Лабы\VVP\VVP_22.4\VVP_22.4\VVP_22.4.cpp(16,15): warning C4101: K: неиспользованная локальная переменная
+  VVP_22.4.vcxproj -> C:\Users\Gleb\Desktop\Лабы\VVP\VVP_22.4\Debug\VVP_22.4.exe
