@@ -4,8 +4,8 @@
 using namespace std;
 int main()
 {
-	int min = 1;
-	int max = 1;
+	int min = INT_MIN;
+	int max = INT_MAX;
 	int N;
 	cout << "Enter N:";
 	cin >> N;
